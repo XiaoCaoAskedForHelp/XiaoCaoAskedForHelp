@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on AvePoint
 - 🌱 I’m currently learning coding
 - 📫 How to reach me: amos.cao@outlook.com
-- 
+
 <!-- 高质量小徽章图标 https://img.shields.io -->
 <span> 
   <img src="https://img.shields.io/badge/-CSharp-d0de31?style=flat-square&logo=.NET" />
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
+  <!--访客图标https://visitor-badge.glitch.me/ -->
+  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=XiaoCaoAskedForHelp" /> -->
 </span>
 
 <!-- Metrics（GitHub 信息统计） -->
