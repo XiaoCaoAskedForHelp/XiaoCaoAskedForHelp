@@ -41,4 +41,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoCaoAskedForHelp&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-
+### ⚡ 我的活动统计: 
+<!-- GitHub Readme Activity Graph （GitHub 活动统计图）https://github.com/Ashutosh00710/github-readme-activity-graph/ -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=XiaoCaoAskedForHelp&theme=vue&radius=10" /> 
+</div>
