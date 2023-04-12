@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
   <!--访客图标https://visitor-badge.glitch.me/ -->
-  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=XiaoCaoAskedForHelp" /> -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=XiaoCaoAskedForHelp&left_color=green&right_color=blue"/>
 </span>
 
 <!-- Metrics（GitHub 信息统计） -->
