@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <!-- Metrics（GitHub 信息统计） -->
 <div align="left"> <img src="https://metrics.lecoq.io/XiaoCaoAskedForHelp?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-
 <div align="center"> 
   <!-- GitHub Stats Card（GitHub 统计卡片）https://github.com/anuraghazra/github-readme-stats -->
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=XiaoCaoAskedForHelp&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
@@ -41,8 +40,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoCaoAskedForHelp&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-### ⚡ 我的活动统计: 
+### ⚡ My Activity Graph(活动统计): 
 <!-- GitHub Readme Activity Graph （GitHub 活动统计图）https://github.com/Ashutosh00710/github-readme-activity-graph/ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=XiaoCaoAskedForHelp&theme=vue&radius=10" /> 
+</div>
+
+### 🤔 I’m Committing code continuously ...
+<!-- GitHub streak（GitHub 连续打卡）https://github.com/DenverCoder1/github-readme-streak-stats -->
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoCaoAskedForHelp&theme=merko" /> 
 </div>
