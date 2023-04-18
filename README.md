@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
   <img src="https://img.shields.io/badge/-Shell-717f32?style=flat-square&logo=shell" /> 
+  <img src="https://img.shields.io/badge/-Vue-13b1d5?style=flat-square&logo=vue.js" /> 
+  <img src="https://img.shields.io/badge/-React-bcb3d5?style=flat-square&logo=react" /> 
   <br/>
   <img src="https://img.shields.io/badge/-Vscode-2e7f20?style=flat-square&logo=visualstudiocode" /> 
   <img src="https://img.shields.io/badge/-IDEA-4c5e7f?style=flat-square&logo=intellijidea" /> 
