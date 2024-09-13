@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=少年的桌上没有荒废的时光!&center=true&size=27&color=0000de"> 
   <br/>
-  <img src="https://static.runoob.com/images/mix/65F53C2E-D255-4EE9-A675-F0C0F3F69D2B.png" style="width: 50%"> 
+  <img src="image.png" style="width: 50%"> 
 </h1>
 
 <!-- 高质量小徽章图标 https://img.shields.io -->
