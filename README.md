@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <span> 
   <!--访客图标https://visitor-badge.glitch.me/ -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=XiaoCaoAskedForHelp&left_color=green&right_color=blue"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
   <br>
   <img src="https://img.shields.io/badge/-CSharp-d0de31?style=flat-square&logo=.NET" />
   <img src="https://img.shields.io/badge/-Java-81a6de?style=flat-square&logo=Icinga" />
