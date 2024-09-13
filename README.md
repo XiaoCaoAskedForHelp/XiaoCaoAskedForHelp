@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 <!-- 高质量小徽章图标 https://img.shields.io -->
 <span> 
-  <!--访客图标https://visitor-badge.glitch.me/ -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=XiaoCaoAskedForHelp&left_color=green&right_color=blue"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
   <br>
   <img src="https://img.shields.io/badge/-CSharp-d0de31?style=flat-square&logo=.NET" />
   <img src="https://img.shields.io/badge/-Java-81a6de?style=flat-square&logo=Icinga" />
@@ -50,7 +47,7 @@ Here are some ideas to get you started:
 </span>
 
 <!-- Metrics（GitHub 信息统计） -->
-<div align="left"> <img src="https://metrics.lecoq.io/XiaoCaoAskedForHelp?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<!-- <div align="left"> <img src="https://metrics.lecoq.io/XiaoCaoAskedForHelp?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
 <div align="center"> 
   <!-- GitHub Stats Card（GitHub 统计卡片）https://github.com/anuraghazra/github-readme-stats -->
